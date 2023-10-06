@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=SHANIB-XD%20&description=WELCOME+TO+MY+PROFILE&image=https://i.imgur.com/QEt7Iv0.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=shan_.x98.exo&github=SH4N1B-S3R&)
+![My card name](https://cardivo.vercel.app/api?name=SHANIB-XD%20&description=WELCOME+TO+MY+PROFILE&image=https://i.imgur.com/QEt7Iv0.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=shanib.xd&github=shanibbb&)
 </p>
 </p>
 
